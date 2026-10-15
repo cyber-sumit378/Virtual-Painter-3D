@@ -30,4 +30,4 @@ An interactive architectural visualization and virtual wall-painting studio. Upl
 ### 1. Clone the Repository
 ```bash
 git clone [https://github.com/cyber-sumit378/virtual-painter-3d.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
-cd YOUR_REPO_NAME
+cd virtual-painter-3d
